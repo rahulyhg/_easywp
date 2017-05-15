@@ -6,7 +6,7 @@ include TEMPLATEPATH . '/inc/support/EasyWP_Jetpack_Integrations.php';
 include TEMPLATEPATH . '/inc/support/EasyWP_Template_Tags.php';
 
 //Include think-framework
-require_once TEMPLATEPATH . '/wp-think-framework-1.0.0/wp-think-framework.php';
+require_once TEMPLATEPATH . '/wp-think-framework-1.0.1/wp-think-framework.php';
 
 if ( ! class_exists( 'EasyWP_Theme' ) ) {
 	/**

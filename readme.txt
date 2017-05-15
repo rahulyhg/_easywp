@@ -32,6 +32,10 @@ _easywp includes support for Infinite Scroll in Jetpack.
 = 1.0 - May 15 2017 =
 * Initial release
 
+= 1.0.1 - May 15 2017 =
+* Initial release
+* Update Think Framework
+
 == Credits ==
 
 * Based on Underscores http://underscores.me/, (C) 2012-2016 Automattic, Inc., [GPLv2 or later](https://www.gnu.org/licenses/gpl-2.0.html)

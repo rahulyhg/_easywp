@@ -7,7 +7,7 @@
  * @package _easywp
  */
 define( 'TEMPLATEURI', get_template_directory_uri() );
-define( 'EASY_WP_VERSION', '1.0.0' );
+define( 'EASY_WP_VERSION', '1.0.1' );
 define( 'ASSETS_URI', TEMPLATEURI . '/public' );
 define( 'ADMIN_AJAX', admin_url( 'admin-ajax.php' ) );
 define( 'ENV', 'development' );
